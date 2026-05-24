@@ -1,4 +1,4 @@
-# CAL-HAID
+# CalHaid
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
